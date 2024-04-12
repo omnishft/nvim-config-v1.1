@@ -1,0 +1,2 @@
+require("omnishft")
+print("Hello")
